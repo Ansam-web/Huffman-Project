@@ -19,8 +19,12 @@ uncompressed file should of course match the original file.
 
 ## ⏳Summary of Processing 
 • Read the specified file and count the frequency of all bytes in the file. 
+
 • Create the Huffman coding tree based on the frequencies. 
+
 • Create and display a table of encodings for each byte from the Huffman coding 
 tree. 
+
 • Encode the file and output the encoded/compressed file. 
+
 • Display the header that include the Huffman code.
